@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[spv:home|Door43 (spv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-spv|d43-spv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-spv/archive/master.zip|d43-spv.zip]]
+
+**Recent Changes**
+{{changes>ns = spv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/spv|Ethnologue data]]
+
